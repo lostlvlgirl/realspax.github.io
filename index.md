@@ -1,6 +1,5 @@
 ---
 title: SpaX
-permalink: /
 ---
 
 # SpaX
