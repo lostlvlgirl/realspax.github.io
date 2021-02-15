@@ -754,14 +754,6 @@ background-color: #0d1117;
 		display: table;
 		content: "";
 	}
-	> {
-		&:first-child {
-			margin-top: 0 !important;
-		}
-		&:last-child {
-			margin-bottom: 0 !important;
-		}
-	}
 	dl {
 		margin-top: 0;
 		margin-bottom: 16px;
