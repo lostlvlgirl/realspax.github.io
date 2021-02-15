@@ -15,5 +15,6 @@ Die folgenden Regeln sind einzuhalten!
 - `§6`  Jegliche Art von Werbung für eigene Zwecke ist untersagt.
 - `§7`  Gespräche stören wird nicht gestattet - jeder der dagegen verstößt wird ermahnt  und wer nach mehrmaligen Ermahnen keine Einsicht zeigt muss mit einem Serverkick rechnen.
        
-             
+<center>
 {% include discord_widget.html %}
+</center>
