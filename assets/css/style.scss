@@ -463,14 +463,6 @@ background-color: #0d1117;
 		padding: 0 1em;
 		color: #6a737d;
 		border-left: .25em solid #dfe2e5;
-		> {
-			&:first-child {
-				margin-top: 0;
-			}
-			&:last-child {
-				margin-bottom: 0;
-			}
-		}
 	}
 	ol {
 		padding-left: 0;
