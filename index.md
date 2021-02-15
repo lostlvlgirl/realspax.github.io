@@ -16,3 +16,8 @@ Hier gehts zum [Server](https://discord.gg/vqxQJFwJaz)!
        
 ### Weiteres 
 - [Discord Regeln](/discord/rules/)
+    
+     
+      
+# Anderes
+- [License](/security/license/)
