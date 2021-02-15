@@ -1,5 +1,6 @@
 ---
-title: SpaX  
+title: SpaX
+permalink: /home/
 ---
 
 # SpaX
