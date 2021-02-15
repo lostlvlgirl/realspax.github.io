@@ -1,3 +1,7 @@
+---
+title: SpaX  
+---
+
 # SpaX
 Offiziell 
 
