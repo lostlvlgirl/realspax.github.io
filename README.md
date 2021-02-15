@@ -1,1 +1,1 @@
-# [LICENSE](https://realspex.github.io/security/license/)
+# [LICENSE](https://realspax.github.io/security/license/)
