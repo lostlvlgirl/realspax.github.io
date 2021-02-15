@@ -14,3 +14,6 @@ Die folgenden Regeln sind einzuhalten!
 - `§5`  Channel Hopping ist verboten. Das heißt, nicht einfach durch die Channel switchen. Wer widerstößt fliegt.
 - `§6`  Jegliche Art von Werbung für eigene Zwecke ist untersagt.
 - `§7`  Gespräche stören wird nicht gestattet - jeder der dagegen verstößt wird ermahnt  und wer nach mehrmaligen Ermahnen keine Einsicht zeigt muss mit einem Serverkick rechnen.
+       
+             
+{% include discord_widget.html %}
