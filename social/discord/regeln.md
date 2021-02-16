@@ -1,6 +1,7 @@
 ---
 layout: default
 title: realSpaX Discord Regeln
+description: "Die Discord Regeln sind einzuhalten!"
 permalink: /discord/rules/
 ---
 
