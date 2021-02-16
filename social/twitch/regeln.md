@@ -1,6 +1,7 @@
 ---
 layout: default
 title: realSpaX Twitch Regeln
+description: "Die Twitch Regeln sind einzuhalten!"
 permalink: /twitch/rules/
 ---
 
