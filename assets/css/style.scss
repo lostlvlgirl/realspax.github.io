@@ -76,7 +76,6 @@ $linkColorOnBlack: #5792E2;
 }
 
 html {
-  @include font-stack-normal;
   @include fluid-type($min_width, $max_width, $min_font, $max_font);
   // border looks weird with images in links
   // @include linkStyleText($linkColorOnWhite, #acacac);
