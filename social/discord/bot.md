@@ -14,3 +14,16 @@ Der Standard Prefix ist `rc/`
 - `runtime` => Die Zeit wie lange der läuft.
 - `dev` => Die Bot und Entwickler Informationen.
 - `rules` => Listet alles Regeln des Discord-Servers auf.
+- `report` => [Hier](#report-command) ist die anwendeung des Commands.
+
+## Report Command
+Die Benutzung ist nur in Notfällen gedacht! Der Missbrauch dieses Commands kann bestraft werden.        
+**Beispiel:**
+```
+rc/report @Der_Googler So und so hat mich beleidigt!
+```
+
+**Usage:**
+```
+rc/report <user> <reason>
+```
