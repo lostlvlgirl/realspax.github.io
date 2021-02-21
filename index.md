@@ -16,6 +16,7 @@ Hier gehts zum [Server](https://discord.gg/vqxQJFwJaz)!
        
 ### Weiteres 
 - [Discord Regeln](/discord/rules/)
+- [Bot-Commands](/discord/bot/commands/)
     
      
       
