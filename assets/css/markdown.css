@@ -11,6 +11,17 @@
   box-sizing: border-box;
 }
 
+::-webkit-scrollbar {
+  width: 0.5em;
+  height: 0.5em;
+}
+::-webkit-scrollbar-thumb {
+  background: #e7e7e7;
+}
+::-webkit-scrollbar-track {
+  background: none;
+}
+
 html {
   font-family: "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
   line-height: 1.5;
