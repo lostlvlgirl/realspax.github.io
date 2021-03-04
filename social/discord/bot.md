@@ -15,6 +15,7 @@ Der Standard Prefix ist `rc/`
 - `dev` => Die Bot und Entwickler Informationen.
 - `rules` => Listet alles Regeln des Discord-Servers auf.
 - `report` => [Hier](#report-command) ist die anwendeung des Commands.
+- `google` => Gibt dir ein Google URL.
 
 ## Report Command
 Die Benutzung ist nur in Notfällen gedacht! Der Missbrauch dieses Commands kann bestraft werden.        
