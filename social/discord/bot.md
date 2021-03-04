@@ -9,9 +9,9 @@ permalink: /discord/bot/commands/
 Der Standard Prefix ist `rc/`   
      
 - `help` => Der Hilfe Command.
-- <kbd>Outdated</kbd> ~`activitys`~[ => ](https://raw.githubusercontent.com/DerGoogler/DerGoogler/main/misc/discord_bot/activity_list.json)Listet alle Aktivitäten des bot's auf.
+- <kbd>Outdated</kbd> `activitys`[ => ](https://raw.githubusercontent.com/DerGoogler/DerGoogler/main/misc/discord_bot/activity_list.json)Listet alle Aktivitäten des bot's auf.
 - `social` => Die Liste der Social Media Links von [realSpaX](https://twitch.ts/realspax).
-- <kbd>Outdated</kbd> ~`runtime`~ => Die Zeit wie lange der läuft.
+- <kbd>Outdated</kbd> `runtime` => Die Zeit wie lange der läuft.
 - `dev` => Die Bot und Entwickler Informationen.
 - `rules` => Listet alles Regeln des Discord-Servers auf.
 - `report` => [Hier](#report-command) ist die anwendeung des Commands.
